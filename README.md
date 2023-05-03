@@ -1,0 +1,2 @@
+# AnimeGo
+cover
